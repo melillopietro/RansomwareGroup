@@ -1,1 +1,1 @@
-# RansomwareGroup
+# Ransomware Group
